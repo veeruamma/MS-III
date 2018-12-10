@@ -1,4 +1,4 @@
-# MS-III
+# Motor Health Monitoring using CNn
 All python programs : III project
 Project Overview: 
 1. Time sreries data to Recurrence plots
